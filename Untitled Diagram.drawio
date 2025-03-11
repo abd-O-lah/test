@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.16">
   <diagram name="Page-1" id="bkezm6ncL4rmGFRLu1cK">
-    <mxGraphModel>
+    <mxGraphModel dx="3300" dy="2263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ksm32kX3pYqMby-qtKBc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;startFill=0;strokeWidth=4;" edge="1" parent="1" source="ksm32kX3pYqMby-qtKBc-2" target="ksm32kX3pYqMby-qtKBc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-2" value="Python basics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;strokeColor=default;shadow=0;glass=1;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="217" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-4" value="Advanced Backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;strokeWidth=2;spacingTop=-1;" vertex="1" parent="1">
+          <mxGeometry x="36.5" y="278" width="156" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-6" value="React &amp;amp; Frontend basics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;strokeWidth=2;spacingTop=-2;" vertex="1" parent="1">
+          <mxGeometry x="18" y="311" width="193" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-7" value="Linking Backend with Fronting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;strokeWidth=2;spacingTop=-2;" vertex="1" parent="1">
+          <mxGeometry x="1.5" y="350" width="226" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-8" value="Data management and cloud storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;strokeWidth=2;spacingTop=-2;" vertex="1" parent="1">
+          <mxGeometry x="-23.75" y="389" width="276.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeWidth=4;endArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksm32kX3pYqMby-qtKBc-9" target="ksm32kX3pYqMby-qtKBc-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-81.91666666666652" y="262.66666666666674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-34" y="263" />
+              <mxPoint x="-290" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-9" value="Backend basics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="247" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="378" y="-110" width="347" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="ksm32kX3pYqMby-qtKBc-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-464" y="-72" width="347" height="319" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
